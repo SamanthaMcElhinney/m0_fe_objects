@@ -1,5 +1,5 @@
 # Self Evaluation
 
-- What did you struggle with in this section?
-- How is note-taking going? What are you finding helpful? When do you find yourself taking the most helpful notes?
-- What are you noticing that you lean into - Googling, or trying to solve a problem in code on your own first?
+- What did you struggle with in this section? I struggled with the final problem, printing the array with three elements. I reached out for assistance on the main channel though after multiple failed attempts researching online. I'm not confident my answer was what you were looking for. It lists all of the emails, but the formatting seems wrong. 
+- How is note-taking going? What are you finding helpful? When do you find yourself taking the most helpful notes? I have been using notion for the first time for notetaking. It's helpful for me to have problems under each topic and be able to save my notes online to quickly reference. I do feel my notes are scattered between paper, online and too many screen shots with problems I've encountering, so I feel like i'll need to hone in on a better system before mod 1.
+- What are you noticing that you lean into - Googling, or trying to solve a problem in code on your own first? It's a combination. I try to solve them first, but I will google after getting stuck for too long. Sometimes it feels I spend too much time then going down a google rabbit hole trying to find the answer with unproductive struggle. 
