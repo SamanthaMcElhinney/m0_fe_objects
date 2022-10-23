@@ -5,32 +5,37 @@
 // the desired result. To check your work, run this
 // file in your Terminal.
 
-foods = {
+var foods = {
   apples: 23, 
   grapes: 507, 
   eggs: 48
-}
+};
+
+console.log(Object.keys(foods));
+console.log(Object.values(foods));
+console.log(foods.grapes);
+console.log(foods.strawberries = 27);
+console.log(Object.values(foods));
 
 // Write code that prints all of the 'keys' of the foods variable 
 // you created above:
-// YOUR CODE HERE
+// console.log(Object.keys(foods));
 
 // Write code that prints all of the 'values' of the foods variable 
 // you created above:
-// YOUR CODE HERE
+// console.log(Objects.values(foods));
 
 // Write code that prints the value of the second food of the foods variable 
 // you created above:
-// YOUR CODE HERE
+// console.log(foods.grapes);
 
 // Write code that adds a food to the foods object. 
 // Then, print the updated object:
-// YOUR CODE HERE
+// console.log(foods.strawberries = 27);
+// console.log(Object.values(foods));
 
 
-#-------------------
 // Part 2: Email
-#-------------------
 
 
 // Think about all the pieces of information associated with one single email in your inbox.
@@ -41,6 +46,15 @@ foods = {
 
 // Write code that logs your email object to the terminal.
 
+var email = {
+  sender: "Turing School",
+  date: "October 10th",
+  time: "2:49 pm" ,
+  subject: "Tuition due",
+  number_emails: 10
+};
+console.log(Object.keys(email));
+console.log(Object.values(email));
 
 // Write code that logs all of the 'keys' of the email object 
 // you created above:
@@ -51,9 +65,9 @@ foods = {
 // YOUR CODE HERE
 
 
-#-------------------
+
 // Part 3: Many Emails - CHALLENGE!
-#-------------------
+
 
 // LONG EXAMPLE:
 // Now that we've learned about Objects AND Arrays, we can combine them.
