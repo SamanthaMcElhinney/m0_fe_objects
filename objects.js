@@ -123,7 +123,7 @@ email = [
     date: "September 30th",
     time: "5:30 pm" ,
     subject: "Vote for us",
-    number_emails: 25,000
+    number_emails: 25000
   },
   {
     sender: "Dogs against cats for president",
@@ -133,5 +133,5 @@ email = [
     number_emails: 3
   }
 ];
-console.log(posts);
-console.log(posts[0]);
+console.log(email);
+
