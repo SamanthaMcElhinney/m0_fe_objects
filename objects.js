@@ -47,22 +47,18 @@ console.log(Object.values(foods));
 // Write code that logs your email object to the terminal.
 
 var email = {
-  sender: "Turing School",
-  date: "October 10th",
-  time: "2:49 pm" ,
-  subject: "Tuition due",
-  number_emails: 10
+  
 };
 console.log(Object.keys(email));
 console.log(Object.values(email));
 
 // Write code that logs all of the 'keys' of the email object 
 // you created above:
-// YOUR CODE HERE
+// console.log(Object.keys(email));
 
 // Write code that logs all of the 'values' of the email object 
 // you created above:
-// YOUR CODE HERE
+// console.log(Object.values(email));
 
 
 
@@ -113,3 +109,29 @@ console.log(posts[0]);
 // YOU DO: Create an array of at least 3 EMAIL Objects, using the same 
 // key-value pairs you used in your email Object above.
 // Then, print the email Array to the Terminal.
+
+email = [
+  {
+    sender: "Turing School",
+    date: "October 10th",
+    time: "2:49 pm" ,
+    subject: "Tuition due",
+    number_emails: 10
+  },
+  {
+    sender: "Cats for President",
+    date: "September 30th",
+    time: "5:30 pm" ,
+    subject: "Vote for us",
+    number_emails: 25,000
+  },
+  {
+    sender: "Dogs against cats for president",
+    date: "July 10th",
+    time: "2:30 pm" ,
+    subject: "Help save us please",
+    number_emails: 3
+  }
+];
+console.log(posts);
+console.log(posts[0]);
